@@ -1,0 +1,33 @@
+{
+    "configuration": {
+        "createdByBanksyncVersion": "0.9.10",
+        "requiredBanksyncVersion": "0.9.10",
+        "syncfileFormatVersion": "1.0",
+        "relativePathToRepositories": "..",
+        "clone.syncreponame": "syncrepo"
+    },
+    "repositories": {
+        "repoBird": {
+            "path": "repoBird",
+            "sha": "e7474bbb489b472f5e280b50d36db2a17c6128f6",
+            "UnixTimeStamp": "1480517188",
+            "date": "2016-11-30 15:46:28 +0100",
+            "author": "Jason Harris",
+            "branch": "master",
+            "revisionNumber": "1",
+            "message": "committing sparrow",
+            "cloneURL": "https://github.com/testbank/repoBird.git"
+        },
+        "repoFish": {
+            "path": "repoFish",
+            "sha": "82c9c5664a6d8656502b7d0aaed2a78334e791fc",
+            "UnixTimeStamp": "1480517188",
+            "date": "2016-11-30 15:46:28 +0100",
+            "author": "Jason Harris",
+            "branch": "master",
+            "revisionNumber": "1",
+            "message": "committing trout",
+            "cloneURL": "https://github.com/testbank/repoFish.git"
+        }
+    }
+}
