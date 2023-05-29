@@ -9,24 +9,24 @@
     "repositories": {
         "repoBird": {
             "path": "repoBird",
-            "sha": "0b8ea74141d6881c317438b3692ff732985ebc44",
-            "UnixTimeStamp": "1480517194",
-            "date": "2016-11-30 15:46:34 +0100",
+            "sha": "6bf9d646b2aa224b64fb86cbddb4d7ab0f2e37d3",
+            "UnixTimeStamp": "1480517200",
+            "date": "2016-11-30 15:46:40 +0100",
             "author": "Jason Harris",
             "branch": "master",
-            "revisionNumber": "2",
-            "message": "committing hawk",
+            "revisionNumber": "3",
+            "message": "committing eagle",
             "cloneURL": "https://github.com/testbank/repoBird.git"
         },
         "repoFish": {
             "path": "repoFish",
-            "sha": "46f64125a6bf2fdc0698c49dec98445adade1d3a",
-            "UnixTimeStamp": "1480517194",
-            "date": "2016-11-30 15:46:34 +0100",
+            "sha": "a27368bec17373938b1dcf73638945b89b60a9d0",
+            "UnixTimeStamp": "1480517200",
+            "date": "2016-11-30 15:46:40 +0100",
             "author": "Jason Harris",
             "branch": "master",
-            "revisionNumber": "2",
-            "message": "committing snapper",
+            "revisionNumber": "3",
+            "message": "committing salmon",
             "cloneURL": "https://github.com/testbank/repoFish.git"
         }
     }
